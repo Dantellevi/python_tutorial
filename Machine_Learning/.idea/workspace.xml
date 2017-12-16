@@ -10,7 +10,42 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="анализа главных компонент.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/сжатие данных путем уменьшение размерности/снижение размерности без учителя на основе анализа главных компонентов/анализа главных компонент.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1819">
+              <caret line="112" column="93" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="112" selection-end-column="93" />
+              <folding>
+                <element signature="e#501#520#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LDA_Model.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/сжатие данных путем уменьшение размерности/Сжатие данных с учителем путем линейного дискриминантного анализа/LDA_Model.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3767">
+              <caret line="33" column="71" lean-forward="true" selection-start-line="33" selection-start-column="71" selection-end-line="33" selection-end-column="71" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SBS-Model.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/создание хороших наборов данных и первичный анализ данных/Алгоритм последовательного отбора признаков/SBS-Model.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2193">
+              <caret line="194" column="97" lean-forward="false" selection-start-line="135" selection-start-column="4" selection-end-line="194" selection-end-column="97" />
+              <folding>
+                <element signature="e#1412#4021#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -38,12 +73,15 @@
         <option value="$PROJECT_DIR$/Отбор содержательных признаков/L1-L2-регуляция/L1-regulation.py" />
         <option value="$PROJECT_DIR$/Алгоритм последовательного отбора признаков/SBS-Model.py" />
         <option value="$PROJECT_DIR$/Определение важности признаков  при помощи случайных лесов/определение важности признаков -случайные леса.py" />
+        <option value="$PROJECT_DIR$/сжатие данных путем уменьшение размерности/снижение размерности без учителя на основе анализа главных компонентов/анализа главных компонент.py" />
+        <option value="$PROJECT_DIR$/сжатие данных путем уменьшение размерности/Сжатие данных с учителем путем линейного дискриминантного анализа/PCA_Model.py" />
+        <option value="$PROJECT_DIR$/сжатие данных путем уменьшение размерности/Сжатие данных с учителем путем линейного дискриминантного анализа/LDA_Model.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="604" />
-    <option name="width" value="766" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-2" />
+    <option name="width" value="1369" />
     <option name="height" value="728" />
   </component>
   <component name="ProjectView">
@@ -61,7 +99,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -84,6 +121,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="RecentsManager">
@@ -107,7 +145,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.определение важности признаков -случайные леса">
+  <component name="RunManager" selected="Python.LDA_Model">
     <configuration name="определение важности признаков -случайные леса" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -121,6 +159,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Machine_Learning" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Определение важности признаков  при помощи случайных лесов/определение важности признаков -случайные леса.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="анализа главных компонент" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/сжатие данных путем уменьшение размерности/снижение размерности без учителя на основе анализа главных компонентов" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Machine_Learning" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/сжатие данных путем уменьшение размерности/снижение размерности без учителя на основе анализа главных компонентов/анализа главных компонент.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -142,19 +197,19 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="Normalization_Standartization" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="LDA_Model" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Приведение признаков к одинаковой шкале" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/сжатие данных путем уменьшение размерности/Сжатие данных с учителем путем линейного дискриминантного анализа" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Machine_Learning" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Приведение признаков к одинаковой шкале/Normalization_Standartization.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/сжатие данных путем уменьшение размерности/Сжатие данных с учителем путем линейного дискриминантного анализа/LDA_Model.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -176,37 +231,20 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="training_and_tesstsData" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Разбивка данные на тренеровочное и тестовое подмножества" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Machine_Learning" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Разбивка данные на тренеровочное и тестовое подмножества/training_and_tesstsData.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.training_and_tesstsData" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Normalization_Standartization" />
-      <item index="2" class="java.lang.String" itemvalue="Python.L1-regulation" />
-      <item index="3" class="java.lang.String" itemvalue="Python.SBS-Model" />
-      <item index="4" class="java.lang.String" itemvalue="Python.определение важности признаков -случайные леса" />
+      <item index="0" class="java.lang.String" itemvalue="Python.L1-regulation" />
+      <item index="1" class="java.lang.String" itemvalue="Python.SBS-Model" />
+      <item index="2" class="java.lang.String" itemvalue="Python.определение важности признаков -случайные леса" />
+      <item index="3" class="java.lang.String" itemvalue="Python.анализа главных компонент" />
+      <item index="4" class="java.lang.String" itemvalue="Python.LDA_Model" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.определение важности признаков -случайные леса" />
-        <item index="1" class="java.lang.String" itemvalue="Python.SBS-Model" />
-        <item index="2" class="java.lang.String" itemvalue="Python.L1-regulation" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Normalization_Standartization" />
-        <item index="4" class="java.lang.String" itemvalue="Python.training_and_tesstsData" />
+        <item index="0" class="java.lang.String" itemvalue="Python.LDA_Model" />
+        <item index="1" class="java.lang.String" itemvalue="Python.анализа главных компонент" />
+        <item index="2" class="java.lang.String" itemvalue="Python.определение важности признаков -случайные леса" />
+        <item index="3" class="java.lang.String" itemvalue="Python.SBS-Model" />
+        <item index="4" class="java.lang.String" itemvalue="Python.L1-regulation" />
       </list>
     </recent_temporary>
   </component>
@@ -224,9 +262,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="604" y="0" width="766" height="728" extended-state="1" />
+    <frame x="-2" y="0" width="1369" height="728" extended-state="0" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39333335" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15668884" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44805196" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -254,30 +292,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Модели классификаторов/обучение на основе деревьев решений/RandomeTrees.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1105">
-          <caret line="68" column="33" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="68" selection-end-column="33" />
-          <folding>
-            <element signature="e#2#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Модели классификаторов/логистическая регрессия/ModelLogisticRegression.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1054">
-          <caret line="65" column="51" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="65" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Модели классификаторов/k ближайших соседей- алгоритм ленивого обучения/Model_KNN.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1241">
           <caret line="76" column="0" lean-forward="false" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -285,9 +303,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
           <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#31#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -295,9 +310,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1139">
           <caret line="70" column="33" lean-forward="false" selection-start-line="69" selection-start-column="0" selection-end-line="70" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -305,9 +317,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1105">
           <caret line="68" column="33" lean-forward="true" selection-start-line="67" selection-start-column="0" selection-end-line="68" selection-end-column="33" />
-          <folding>
-            <element signature="e#2#30#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -322,9 +331,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1241">
           <caret line="76" column="0" lean-forward="true" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -332,9 +338,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
           <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#31#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -342,9 +345,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1139">
           <caret line="70" column="33" lean-forward="true" selection-start-line="69" selection-start-column="0" selection-end-line="70" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -359,9 +359,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1054">
           <caret line="65" column="0" lean-forward="true" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
-          <folding>
-            <element signature="e#2#30#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -369,9 +366,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
           <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#31#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -386,9 +380,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="12" column="23" lean-forward="false" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -396,9 +387,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="561">
           <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#31#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -413,9 +401,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="23" column="33" lean-forward="true" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -423,9 +408,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
           <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#31#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -440,9 +422,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1054">
           <caret line="65" column="19" lean-forward="false" selection-start-line="65" selection-start-column="19" selection-end-line="65" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -450,9 +429,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#31#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -575,20 +551,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Модели классификаторов/логистическая регрессия/ModelLogisticRegression.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1054">
-          <caret line="65" column="51" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="65" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Модели классификаторов/обучение на основе деревьев решений/Entropia.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
           <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#31#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -596,9 +562,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="646">
           <caret line="39" column="50" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="39" selection-end-column="50" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -606,9 +569,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1785">
           <caret line="106" column="119" lean-forward="false" selection-start-line="106" selection-start-column="119" selection-end-line="106" selection-end-column="119" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -616,19 +576,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1938">
           <caret line="114" column="0" lean-forward="true" selection-start-line="114" selection-start-column="0" selection-end-line="114" selection-end-column="0" />
-          <folding>
-            <element signature="e#1840#1859#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/создание хороших наборов данных и первичный анализ данных/Алгоритм последовательного отбора признаков/SBS-Model.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="172" column="61" lean-forward="true" selection-start-line="100" selection-start-column="4" selection-end-line="172" selection-end-column="61" />
-          <folding>
-            <element signature="e#1212#1242#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -636,9 +583,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="585">
           <caret line="95" column="93" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="95" selection-end-column="93" />
-          <folding>
-            <element signature="e#1722#1741#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -646,7 +590,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="19" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -654,9 +597,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="20" column="21" lean-forward="false" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -664,9 +604,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="534">
           <caret line="62" column="0" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -674,9 +611,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="534">
           <caret line="68" column="33" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="68" selection-end-column="33" />
-          <folding>
-            <element signature="e#2#30#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -684,9 +618,41 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="70" column="33" lean-forward="false" selection-start-line="69" selection-start-column="0" selection-end-line="70" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/создание хороших наборов данных и первичный анализ данных/Алгоритм последовательного отбора признаков/SBS-Model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2193">
+          <caret line="194" column="97" lean-forward="false" selection-start-line="135" selection-start-column="4" selection-end-line="194" selection-end-column="97" />
           <folding>
-            <element signature="e#0#28#0" expanded="true" />
+            <element signature="e#1412#4021#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Модели классификаторов/логистическая регрессия/ModelLogisticRegression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/сжатие данных путем уменьшение размерности/снижение размерности без учителя на основе анализа главных компонентов/анализа главных компонент.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1819">
+          <caret line="112" column="93" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="112" selection-end-column="93" />
+          <folding>
+            <element signature="e#501#520#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/сжатие данных путем уменьшение размерности/Сжатие данных с учителем путем линейного дискриминантного анализа/LDA_Model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3767">
+          <caret line="33" column="71" lean-forward="true" selection-start-line="33" selection-start-column="71" selection-end-line="33" selection-end-column="71" />
+          <folding />
         </state>
       </provider>
     </entry>
