@@ -11,35 +11,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="анализа главных компонент.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/сжатие данных путем уменьшение размерности/снижение размерности без учителя на основе анализа главных компонентов/анализа главных компонент.py">
+      <file leaf-file-name="Реализация ядерного метода анализа главных компонент на Python.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/сжатие данных путем уменьшение размерности/Использование ядерного метода анализа  главных компонент для нелинейных отображений/Реализация ядерного метода анализа главных компонент на Python.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1819">
-              <caret line="112" column="93" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="112" selection-end-column="93" />
+            <state relative-caret-position="2363">
+              <caret line="139" column="41" lean-forward="true" selection-start-line="139" selection-start-column="41" selection-end-line="139" selection-end-column="41" />
               <folding>
-                <element signature="e#501#520#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LDA_Model.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/сжатие данных путем уменьшение размерности/Сжатие данных с учителем путем линейного дискриминантного анализа/LDA_Model.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3767">
-              <caret line="33" column="71" lean-forward="true" selection-start-line="33" selection-start-column="71" selection-end-line="33" selection-end-column="71" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SBS-Model.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/создание хороших наборов данных и первичный анализ данных/Алгоритм последовательного отбора признаков/SBS-Model.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2193">
-              <caret line="194" column="97" lean-forward="false" selection-start-line="135" selection-start-column="4" selection-end-line="194" selection-end-column="97" />
-              <folding>
-                <element signature="e#1412#4021#0" expanded="false" />
+                <element signature="e#0#51#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -76,12 +54,13 @@
         <option value="$PROJECT_DIR$/сжатие данных путем уменьшение размерности/снижение размерности без учителя на основе анализа главных компонентов/анализа главных компонент.py" />
         <option value="$PROJECT_DIR$/сжатие данных путем уменьшение размерности/Сжатие данных с учителем путем линейного дискриминантного анализа/PCA_Model.py" />
         <option value="$PROJECT_DIR$/сжатие данных путем уменьшение размерности/Сжатие данных с учителем путем линейного дискриминантного анализа/LDA_Model.py" />
+        <option value="$PROJECT_DIR$/сжатие данных путем уменьшение размерности/Использование ядерного метода анализа  главных компонент для нелинейных отображений/Реализация ядерного метода анализа главных компонент на Python.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-2" />
-    <option name="width" value="1369" />
+    <option name="x" value="661" />
+    <option name="width" value="706" />
     <option name="height" value="728" />
   </component>
   <component name="ProjectView">
@@ -110,6 +89,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope">
         <subPane subId="Project Files">
           <expand>
@@ -117,11 +97,21 @@
               <item name="Root" type="cbb8eebc:String" user="Root" />
               <item name="Machine_Learning" type="cbb8eebc:String" user="Machine_Learning" />
             </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="Machine_Learning" type="cbb8eebc:String" user="Machine_Learning" />
+              <item name="сжатие данных путем уменьшение размерности" type="cbb8eebc:String" user="сжатие данных путем уменьшение размерности" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="Machine_Learning" type="cbb8eebc:String" user="Machine_Learning" />
+              <item name="сжатие данных путем уменьшение размерности" type="cbb8eebc:String" user="сжатие данных путем уменьшение размерности" />
+              <item name="Использование ядерного метода анализа  главных компонент для нелинейных отображений" type="cbb8eebc:String" user="Использование ядерного метода анализа  главных компонент для нелинейных отображений" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="RecentsManager">
@@ -145,7 +135,24 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.LDA_Model">
+  <component name="RunManager" selected="Python.Реализация ядерного метода анализа главных компонент на Python">
+    <configuration name="Реализация ядерного метода анализа главных компонент на Python" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/сжатие данных путем уменьшение размерности/Использование ядерного метода анализа  главных компонент для нелинейных отображений" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Machine_Learning" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/сжатие данных путем уменьшение размерности/Использование ядерного метода анализа  главных компонент для нелинейных отображений/Реализация ядерного метода анализа главных компонент на Python.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <configuration name="определение важности признаков -случайные леса" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -176,23 +183,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Machine_Learning" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/сжатие данных путем уменьшение размерности/снижение размерности без учителя на основе анализа главных компонентов/анализа главных компонент.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="L1-regulation" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Отбор содержательных признаков/L1-L2-регуляция" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Machine_Learning" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Отбор содержательных признаков/L1-L2-регуляция/L1-regulation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -232,19 +222,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.L1-regulation" />
-      <item index="1" class="java.lang.String" itemvalue="Python.SBS-Model" />
-      <item index="2" class="java.lang.String" itemvalue="Python.определение важности признаков -случайные леса" />
-      <item index="3" class="java.lang.String" itemvalue="Python.анализа главных компонент" />
-      <item index="4" class="java.lang.String" itemvalue="Python.LDA_Model" />
+      <item index="0" class="java.lang.String" itemvalue="Python.SBS-Model" />
+      <item index="1" class="java.lang.String" itemvalue="Python.определение важности признаков -случайные леса" />
+      <item index="2" class="java.lang.String" itemvalue="Python.анализа главных компонент" />
+      <item index="3" class="java.lang.String" itemvalue="Python.LDA_Model" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Реализация ядерного метода анализа главных компонент на Python" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.LDA_Model" />
-        <item index="1" class="java.lang.String" itemvalue="Python.анализа главных компонент" />
-        <item index="2" class="java.lang.String" itemvalue="Python.определение важности признаков -случайные леса" />
-        <item index="3" class="java.lang.String" itemvalue="Python.SBS-Model" />
-        <item index="4" class="java.lang.String" itemvalue="Python.L1-regulation" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Реализация ядерного метода анализа главных компонент на Python" />
+        <item index="1" class="java.lang.String" itemvalue="Python.LDA_Model" />
+        <item index="2" class="java.lang.String" itemvalue="Python.анализа главных компонент" />
+        <item index="3" class="java.lang.String" itemvalue="Python.определение важности признаков -случайные леса" />
+        <item index="4" class="java.lang.String" itemvalue="Python.SBS-Model" />
       </list>
     </recent_temporary>
   </component>
@@ -262,9 +252,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-2" y="0" width="1369" height="728" extended-state="0" />
+    <frame x="661" y="0" width="706" height="728" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15668884" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20724638" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44805196" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -292,13 +283,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Модели классификаторов/k ближайших соседей- алгоритм ленивого обучения/Model_KNN.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1241">
-          <caret line="76" column="0" lean-forward="false" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Модели классификаторов/обучение на основе деревьев решений/Entropia.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
@@ -621,38 +605,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/создание хороших наборов данных и первичный анализ данных/Алгоритм последовательного отбора признаков/SBS-Model.py">
+    <entry file="file://$PROJECT_DIR$/сжатие данных путем уменьшение размерности/Сжатие данных с учителем путем линейного дискриминантного анализа/LDA_Model.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2193">
-          <caret line="194" column="97" lean-forward="false" selection-start-line="135" selection-start-column="4" selection-end-line="194" selection-end-column="97" />
-          <folding>
-            <element signature="e#1412#4021#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Модели классификаторов/логистическая регрессия/ModelLogisticRegression.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+        <state relative-caret-position="809">
+          <caret line="330" column="0" lean-forward="true" selection-start-line="330" selection-start-column="0" selection-end-line="330" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/сжатие данных путем уменьшение размерности/снижение размерности без учителя на основе анализа главных компонентов/анализа главных компонент.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1819">
+        <state relative-caret-position="-1047">
           <caret line="112" column="93" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="112" selection-end-column="93" />
-          <folding>
-            <element signature="e#501#520#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/сжатие данных путем уменьшение размерности/Сжатие данных с учителем путем линейного дискриминантного анализа/LDA_Model.py">
+    <entry file="file://$PROJECT_DIR$/Модели классификаторов/логистическая регрессия/ModelLogisticRegression.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3767">
-          <caret line="33" column="71" lean-forward="true" selection-start-line="33" selection-start-column="71" selection-end-line="33" selection-end-column="71" />
-          <folding />
+        <state relative-caret-position="153">
+          <caret line="72" column="51" lean-forward="false" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/создание хороших наборов данных и первичный анализ данных/Алгоритм последовательного отбора признаков/SBS-Model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="534">
+          <caret line="194" column="97" lean-forward="false" selection-start-line="135" selection-start-column="4" selection-end-line="194" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/сжатие данных путем уменьшение размерности/Использование ядерного метода анализа  главных компонент для нелинейных отображений/Реализация ядерного метода анализа главных компонент на Python.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2363">
+          <caret line="139" column="41" lean-forward="true" selection-start-line="139" selection-start-column="41" selection-end-line="139" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

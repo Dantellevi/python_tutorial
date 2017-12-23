@@ -279,4 +279,68 @@ w=np.hstack((eigen_paits[0][1][:,np.newaxis].real,
              eigen_paits[1][1][:,np.newaxis].real))
 print('Матрица W:\n',w)
 
+#============================Проекцирование образцов на новое простанство признаков=============
 
+"""
+При помощи матрицы преобразования W,  которую мы создали в предыдущем под­
+разделе,  теперь можно преобразовать тренировочный набор данных путем умноже­
+ния матриц: 
+
+"""
+
+X_train_lda=X_train_std.dot(w)
+colors=['r','b','g']
+markers=['s','x','o']
+for l,c,m in zip(np.unique(y_train),colors,markers):
+    plt.scatter(X_train_lda[y_train==l,0]*(-1),
+               X_train_lda[y_train==l,1]*(-1),
+                c=c,label=l,marker=m)
+
+plt.xlabel('LD 1')
+plt.ylabel('LD 2')
+
+plt.legend(loc='lower right')
+plt.show()
+
+#=====================================Метод LDA в scikit-learn========================
+"""
+Пошаговая реализация была хорошим упражнением для понимания внутреннего 
+устройства LDA  и понимания различий между алгоритмами LDA  и РСА. Теперь 
+рассмотрим класс под названием LDA,  реализованный в библиотеке scikit-leaгn: 
+"""
+
+from sklearn.discriminant_analysis import LinearDiscriminantAnalysis
+
+lda=LinearDiscriminantAnalysis(n_components=2)
+X_train_lda=lda.fit_transform(X_train_std,y_train)
+
+"""
+Затем посмотрим, как классификатор логистической регрессии обрабатывает бо­
+лее низкоразмерный тренировочный набор данных после преобразования LDA: 
+
+"""
+from sklearn.linear_model import LogisticRegression
+lr=LogisticRegression()
+lr=lr.fit(X_train_lda,y_train)
+plot_description_regions(X_train_lda,y_train,classifier=lr)
+plt.xlabel('LD 1')
+plt.ylabel('LD 2')
+
+plt.legend(loc='lower right')
+plt.show()
+
+"""
+Понизив силу регуляризации, по-видимому, можно было бы сместить границы 
+решения, в результате чего модели логистической регрессии будут правильно клас­
+сифицировать все образцы в тренировочном наборе данных.  Впрочем, проанализи­
+руем результаты на тестовом наборе: 
+
+"""
+
+X_test_lda=lda.transform(X_test_std)
+plot_description_regions(X_test_lda,y_test,classifier=lr)
+plt.xlabel('LD 1')
+plt.ylabel('LD 2')
+
+plt.legend(loc='lower right')
+plt.show()

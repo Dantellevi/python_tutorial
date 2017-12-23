@@ -11,111 +11,45 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="чтение_сохранение_вывод_изображения.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/OpenCV Example Python/чтение_сохранение_вывод_изображения.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="чтение в серых тонах.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/OpenCV Example Python/чтение в серых тонах.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="конвертация цветного изображения в чернобелое.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/OpenCV Example Python/конвертация цветного изображения в чернобелое.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="конвертация цветного изображения в другие типы форматов YUV.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/OpenCV Example Python/конвертация цветного изображения в другие типы форматов YUV.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="сдвиг изображения на экране.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/OpenCV Example Python/сдвиг изображения на экране.py">
+      <file leaf-file-name="размытие.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OpenCV Example Python/детектирование углов и фильтрация изображения/размытие.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="425">
               <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="поворот изображения.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/OpenCV Example Python/поворот изображения.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Поворот и уменьшение изображения.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/OpenCV Example Python/Поворот и уменьшение изображения.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="изменение размеров изображения.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/OpenCV Example Python/изменение размеров изображения.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Преобразование изображения к форме парралелограмма.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/OpenCV Example Python/Преобразование изображения к форме парралелограмма.py">
+      <file leaf-file-name="размытие движения.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OpenCV Example Python/детектирование углов и фильтрация изображения/размытие движения.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="15" column="13" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="13" />
+            <state relative-caret-position="357">
+              <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding>
-                <element signature="e#0#10#0" expanded="true" />
+                <element signature="e#0#18#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Зеркальное отображение.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/OpenCV Example Python/Зеркальное отображение.py">
+      <file leaf-file-name="контрасность_заострение.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OpenCV Example Python/детектирование углов и фильтрация изображения/контрасность_заострение.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+            <state relative-caret-position="391">
+              <caret line="24" column="32" lean-forward="false" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="выделение рельефа(переднего плана) изображения.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/OpenCV Example Python/детектирование углов и фильтрация изображения/выделение рельефа(переднего плана) изображения.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -135,15 +69,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/преобразование изображения/Gaussian Blurring.py" />
-        <option value="$PROJECT_DIR$/преобразование изображения/Median Blurring.py" />
-        <option value="$PROJECT_DIR$/преобразование изображения/Bilateral Filtering.py" />
-        <option value="$PROJECT_DIR$/преобразование изображения/morfology_Erosion.py" />
-        <option value="$PROJECT_DIR$/преобразование изображения/Morphology_Closing.py" />
-        <option value="$PROJECT_DIR$/преобразование изображения/Morfology_Dilation.py" />
-        <option value="$PROJECT_DIR$/преобразование изображения/Morfology_Opening.py" />
-        <option value="$PROJECT_DIR$/преобразование изображения/Morphology_Morphological Gradient.py" />
-        <option value="$PROJECT_DIR$/преобразование изображения/Fill.py" />
         <option value="$PROJECT_DIR$/преобразование изображения/Resize.py" />
         <option value="$PROJECT_DIR$/преобразование изображения/Morphology_threshold_INV.py" />
         <option value="$PROJECT_DIR$/преобразование изображения/Adaptive_treshold.py" />
@@ -186,12 +111,21 @@
         <option value="$PROJECT_DIR$/OpenCV Example Python/изменение размеров изображения.py" />
         <option value="$PROJECT_DIR$/OpenCV Example Python/Преобразование изображения к форме парралелограмма.py" />
         <option value="$PROJECT_DIR$/OpenCV Example Python/Зеркальное отображение.py" />
+        <option value="$PROJECT_DIR$/OpenCV Example Python/трапециальное преобразование.py" />
+        <option value="$PROJECT_DIR$/OpenCV Example Python/Изменение угла обзора.py" />
+        <option value="$PROJECT_DIR$/OpenCV Example Python/искревление изображения.py" />
+        <option value="$PROJECT_DIR$/OpenCV Example Python/детектирование углов и фильтрация изображения/2D_свертка.py" />
+        <option value="$PROJECT_DIR$/OpenCV Example Python/детектирование углов и фильтрация изображения/размытие.py" />
+        <option value="$PROJECT_DIR$/OpenCV Example Python/детектирование углов и фильтрация изображения/детектирование углов.py" />
+        <option value="$PROJECT_DIR$/OpenCV Example Python/детектирование углов и фильтрация изображения/размытие движения.py" />
+        <option value="$PROJECT_DIR$/OpenCV Example Python/детектирование углов и фильтрация изображения/контрасность_заострение.py" />
+        <option value="$PROJECT_DIR$/OpenCV Example Python/детектирование углов и фильтрация изображения/выделение рельефа(переднего плана) изображения.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="518" />
-    <option name="width" value="846" />
+    <option name="x" value="665" />
+    <option name="width" value="699" />
     <option name="height" value="725" />
   </component>
   <component name="ProjectView">
@@ -209,6 +143,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -222,24 +157,30 @@
               <item name="OPENCV" type="462c0819:PsiDirectoryNode" />
               <item name="OpenCV Example Python" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="OPENCV" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OPENCV" type="462c0819:PsiDirectoryNode" />
+              <item name="OpenCV Example Python" type="462c0819:PsiDirectoryNode" />
+              <item name="детектирование углов и фильтрация изображения" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\GitRepository\python_tutorial\OPENCV\OpenCV with Python\Базовые операции" />
-      <recent name="D:\GitRepository\python_tutorial\OPENCV\basicOperation" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GitRepository\python_tutorial\OPENCV\OpenCV Example Python\детектирование углов и фильтрация изображения" />
       <recent name="D:\GitRepository\python_tutorial\OPENCV\OpenCV with Python" />
       <recent name="D:\GitRepository\python_tutorial\OPENCV\Обработка изображения\преобразование Хаффа" />
       <recent name="D:\GitRepository\python_tutorial\OPENCV\Обработка изображения\фильтр Шарра" />
       <recent name="D:\GitRepository\python_tutorial\OPENCV\преобразование изображения\Упражнения" />
-      <recent name="D:\GitRepository\python_tutorial\OPENCV\HighGUI\Zadanie" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\GitRepository\python_tutorial\OPENCV\OpenCV Example Python\Базовые операции и преобразование изображения" />
+      <recent name="D:\GitRepository\python_tutorial\OPENCV\OpenCV with Python\Базовые операции" />
+      <recent name="D:\GitRepository\python_tutorial\OPENCV\basicOperation" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -254,7 +195,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.выделение рельефа(переднего плана) изображения">
     <configuration name="Преобразование изображения к форме парралелограмма" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -267,24 +208,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="OPENCV" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OpenCV Example Python/Преобразование изображения к форме парралелограмма.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="Поворот и уменьшение изображения" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OpenCV Example Python" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="OPENCV" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OpenCV Example Python/Поворот и уменьшение изображения.py" />
+      <option name="SCRIPT_NAME" value="D:\GitRepository\python_tutorial\OPENCV\OpenCV Example Python\Базовые операции и преобразование изображения\Преобразование изображения к форме парралелограмма.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -323,7 +247,24 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="изменение размеров изображения" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="детектирование углов" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OpenCV Example Python/детектирование углов и фильтрация изображения" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="OPENCV" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OpenCV Example Python/детектирование углов и фильтрация изображения/детектирование углов.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="трапециальное преобразование" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -335,12 +276,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="OPENCV" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OpenCV Example Python/изменение размеров изображения.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OpenCV Example Python/трапециальное преобразование.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="поворот изображения" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="искревление изображения" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -352,40 +293,92 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="OPENCV" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OpenCV Example Python/поворот изображения.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OpenCV Example Python/искревление изображения.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="Зеркальное отображение" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="размытие движения" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OpenCV Example Python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OpenCV Example Python/детектирование углов и фильтрация изображения" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="OPENCV" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OpenCV Example Python/Зеркальное отображение.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OpenCV Example Python/детектирование углов и фильтрация изображения/размытие движения.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <list size="4">
-      <item index="0" class="java.lang.String" itemvalue="Python.поворот изображения" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Поворот и уменьшение изображения" />
-      <item index="2" class="java.lang.String" itemvalue="Python.изменение размеров изображения" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Преобразование изображения к форме парралелограмма" />
+    <configuration name="выделение рельефа(переднего плана) изображения" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OpenCV Example Python/детектирование углов и фильтрация изображения" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="OPENCV" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OpenCV Example Python/детектирование углов и фильтрация изображения/выделение рельефа(переднего плана) изображения.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="размытие" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OpenCV Example Python/детектирование углов и фильтрация изображения" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="OPENCV" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OpenCV Example Python/детектирование углов и фильтрация изображения/размытие.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="контрасность_заострение" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OpenCV Example Python/детектирование углов и фильтрация изображения" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="OPENCV" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OpenCV Example Python/детектирование углов и фильтрация изображения/контрасность_заострение.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.захват видео с камеры" />
+      <item index="1" class="java.lang.String" itemvalue="Python.размытие" />
+      <item index="2" class="java.lang.String" itemvalue="Python.детектирование углов" />
+      <item index="3" class="java.lang.String" itemvalue="Python.контрасность_заострение" />
+      <item index="4" class="java.lang.String" itemvalue="Python.выделение рельефа(переднего плана) изображения" />
     </list>
     <recent_temporary>
       <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Python.Преобразование изображения к форме парралелограмма" />
-        <item index="1" class="java.lang.String" itemvalue="Python.изменение размеров изображения" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Поворот и уменьшение изображения" />
-        <item index="3" class="java.lang.String" itemvalue="Python.поворот изображения" />
+        <item index="0" class="java.lang.String" itemvalue="Python.выделение рельефа(переднего плана) изображения" />
+        <item index="1" class="java.lang.String" itemvalue="Python.контрасность_заострение" />
+        <item index="2" class="java.lang.String" itemvalue="Python.детектирование углов" />
+        <item index="3" class="java.lang.String" itemvalue="Python.размытие" />
       </list>
     </recent_temporary>
   </component>
@@ -403,9 +396,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="518" y="0" width="846" height="725" extended-state="0" />
+    <frame x="665" y="0" width="699" height="725" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27228916" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38360175" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -435,62 +428,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/преобразование изображения/Упражнения/Zadanie2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="24" lean-forward="true" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/преобразование изображения/Упражнения/zadanie1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="27" column="23" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="27" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/преобразование изображения/Gaussian Blurring.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="27" column="35" lean-forward="false" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Обработка изображения/Свертка/Border Operation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="19" column="2" lean-forward="false" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Обработка изображения/Градиент и производная Собеля/scriptOperationSobel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Обработка изображения/Свертка/Image Filtering.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="13" column="10" lean-forward="false" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Обработка изображения/Свертка/OperationSvertka.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="4" column="52" lean-forward="false" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Обработка изображения/фильтр Шарра/ScriptSHarr.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="47" lean-forward="false" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/преобразование изображения/Resize.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -708,92 +645,136 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OpenCV Example Python/чтение_сохранение_вывод_изображения.py">
+    <entry file="file://$PROJECT_DIR$/OpenCV Example Python/Базовые операции и преобразование изображения/чтение_сохранение_вывод_изображения.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OpenCV Example Python/чтение в серых тонах.py">
+    <entry file="file://$PROJECT_DIR$/OpenCV Example Python/Базовые операции и преобразование изображения/чтение в серых тонах.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OpenCV Example Python/конвертация цветного изображения в чернобелое.py">
+    <entry file="file://$PROJECT_DIR$/OpenCV Example Python/Базовые операции и преобразование изображения/конвертация цветного изображения в чернобелое.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OpenCV Example Python/конвертация цветного изображения в другие типы форматов YUV.py">
+    <entry file="file://$PROJECT_DIR$/OpenCV Example Python/Базовые операции и преобразование изображения/конвертация цветного изображения в другие типы форматов YUV.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
           <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OpenCV Example Python/сдвиг изображения на экране.py">
+    <entry file="file://$PROJECT_DIR$/OpenCV Example Python/Базовые операции и преобразование изображения/сдвиг изображения на экране.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OpenCV Example Python/поворот изображения.py">
+    <entry file="file://$PROJECT_DIR$/OpenCV Example Python/детектирование углов и фильтрация изображения/детектирование углов.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpenCV Example Python/Базовые операции и преобразование изображения/искревление изображения.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-707">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpenCV Example Python/Базовые операции и преобразование изображения/Изменение угла обзора.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpenCV Example Python/Базовые операции и преобразование изображения/трапециальное преобразование.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpenCV Example Python/Базовые операции и преобразование изображения/Зеркальное отображение.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OpenCV Example Python/Поворот и уменьшение изображения.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OpenCV Example Python/Преобразование изображения к форме парралелограмма.py">
+    <entry file="file://$PROJECT_DIR$/OpenCV Example Python/Базовые операции и преобразование изображения/Преобразование изображения к форме парралелограмма.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="15" column="13" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OpenCV Example Python/изменение размеров изображения.py">
+    <entry file="file://$PROJECT_DIR$/OpenCV Example Python/Базовые операции и преобразование изображения/изменение размеров изображения.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpenCV Example Python/Базовые операции и преобразование изображения/Поворот и уменьшение изображения.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpenCV Example Python/Базовые операции и преобразование изображения/поворот изображения.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpenCV Example Python/детектирование углов и фильтрация изображения/размытие.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OpenCV Example Python/Зеркальное отображение.py">
+    <entry file="file://$PROJECT_DIR$/OpenCV Example Python/детектирование углов и фильтрация изображения/размытие движения.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        <state relative-caret-position="357">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpenCV Example Python/детектирование углов и фильтрация изображения/контрасность_заострение.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="24" column="32" lean-forward="false" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpenCV Example Python/детектирование углов и фильтрация изображения/выделение рельефа(переднего плана) изображения.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
